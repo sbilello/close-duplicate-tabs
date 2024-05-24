@@ -58,3 +58,5 @@ Icons created using a minimalist design approach.
 ---
 
 Enjoy a clutter-free browsing experience with the Close Duplicate Tabs extension!
+
+[![ko-fi](https://coindrop.to/embed-button.png)](https://coindrop.to/sergio)
