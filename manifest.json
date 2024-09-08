@@ -9,9 +9,9 @@
   "commands":{
     "close": {
       "suggested_key": {
-        "windows": "Ctrl+C",
-        "linux":"Ctrl+C",
-        "chromeos":"Ctrl+C",
+        "windows": "Alt+C",
+        "linux":"Alt+C",
+        "chromeos":"Alt+C",
         "mac": "MacCtrl+C"
       },
       "description":"Close duplicate tabs"
