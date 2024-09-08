@@ -11,12 +11,7 @@
       "description":"Close duplicate tabs"
     },
     "_execute_action":{
-      "suggested_key":{
-        "linux":"Alt+U",
-        "windows":"Alt+U",
-        "chromeos":"Alt+U",
-        "mac":"MacCtrl+U"
-      }
+      "suggested_key": "Alt+U"
     }
 
   },
