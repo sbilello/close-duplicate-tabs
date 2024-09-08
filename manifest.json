@@ -8,15 +8,17 @@
   ],
   "commands":{
     "close": {
-      "suggested_key": {
-        "windows": "Alt+C",
-        "linux":"Alt+C",
-        "chromeos":"Alt+C",
-        "mac": "MacCtrl+C"
-      },
       "description":"Close duplicate tabs"
-
+    },
+    "_execute_action":{
+      "suggested_key":{
+        "linux":"Alt+U",
+        "windows":"Alt+U",
+        "chromeos":"Alt+U",
+        "mac":"MacCtrl+U"
+      }
     }
+
   },
   "background": {
     "service_worker": "background.js"
