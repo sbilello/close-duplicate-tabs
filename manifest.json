@@ -6,6 +6,15 @@
   "permissions": [
     "tabs"
   ],
+  "commands":{
+    "close": {
+      "description":"Close duplicate tabs"
+    },
+    "_execute_action":{
+      "suggested_key": "Alt+U"
+    }
+
+  },
   "background": {
     "service_worker": "background.js"
   },

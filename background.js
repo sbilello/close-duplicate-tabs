@@ -1,4 +1,4 @@
-chrome.action.onClicked.addListener(() => {
+chrome.commands.onCommand.addListener(() => {
   chrome.tabs.query({}, (tabs) => {
     const tabUrls = new Set();
     tabs.forEach((tab) => {
